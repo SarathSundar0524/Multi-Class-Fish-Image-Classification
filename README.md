@@ -81,9 +81,9 @@ Provided as a ZIP file
 ▶️ How to Run
 Clone the repository
 ```bash git clone https://github.com/your-username/fish-classification.git
-cd fish-classification```bash
+cd fish-classification```
 Install required libraries
-```pip install -r requirements.txt```bash
+```pip install -r requirements.txt```
 Run model training (optional)
 ```python train.py```bash
 Launch Streamlit app
