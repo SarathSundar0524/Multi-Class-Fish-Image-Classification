@@ -77,8 +77,8 @@ Fish image dataset organized by species folders
 Loaded using ImageDataGenerator
 Provided as a ZIP file
 📦 Project Deliverables
-✅ Trained Models (.h5 / .pkl)
 
+✅ Trained Models (.h5 / .pkl)
 ✅ Streamlit Web Application
 ✅ Python Scripts (training, evaluation, deployment)
 ✅ Model Comparison Report
