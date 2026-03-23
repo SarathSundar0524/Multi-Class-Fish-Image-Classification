@@ -72,18 +72,23 @@ Display prediction confidence
 Run the app
 
 streamlit run app.py
+
 Dataset
+
 Fish image dataset organized by species folders
+
 Loaded using ImageDataGenerator
+
 Provided as a ZIP file
 
-Project Deliverables
+## Project Deliverables
 -Trained Models (.h5 / .pkl)
 -Streamlit Web Application
 -Python Scripts (training, evaluation, deployment)
 -Model Comparison Report
 -GitHub Repository with Documentation
-📊 Output
+
+## Output
 Model performance comparison
 Accuracy & loss graphs
 Confusion matrix
