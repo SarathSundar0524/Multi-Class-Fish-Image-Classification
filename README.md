@@ -70,6 +70,7 @@ Predict fish category
 Display prediction confidence
 
 Run the app
+
 streamlit run app.py
 Dataset
 Fish image dataset organized by species folders
