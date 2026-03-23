@@ -111,9 +111,47 @@ Features:
 
 ## ▶️ How to Run
 
-> 💡 Make sure Python 3.8+ is installed
+💡 Make sure Python 3.8+ is installed  
 
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/fish-classification.git
 cd fish-classification
+```
+
+### 2. Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3. Train the model (optional)
+```bash
+python train.py
+```
+
+### 4. Run Streamlit app
+```bash
+streamlit run app.py
+```
+
+---
+
+## 📊 Output
+- Accuracy & loss graphs  
+- Confusion matrix  
+- Model comparison  
+- Real-time predictions  
+
+---
+
+## 🔮 Future Improvements
+- Hyperparameter tuning  
+- Larger dataset  
+- Cloud deployment  
+- Real-time camera prediction  
+
+---
+
+## 👨‍💻 Author
+Sarath Sundar  
+Mechatronics Engineer | Data & AI Enthusiast  
