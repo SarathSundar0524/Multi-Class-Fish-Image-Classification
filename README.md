@@ -64,30 +64,10 @@ Saved model in:
 5️⃣ Deployment (Streamlit App)
 
 Features:
-
 Upload fish image
 Predict fish category
 Display prediction confidence
 
-Run the app
-
-streamlit run app.py
-
-Dataset
-Fish image dataset organized by species folders
-Loaded using ImageDataGenerator
-Provided as a ZIP file
-
-▶️ How to Run
-Clone the repository
-```bash git clone https://github.com/your-username/fish-classification.git
-cd fish-classification```
-Install required libraries
-```pip install -r requirements.txt```
-Run model training (optional)
-```python train.py```bash
-Launch Streamlit app
-```streamlit run app.py```bash
 
 ## Output
 Model performance comparison
