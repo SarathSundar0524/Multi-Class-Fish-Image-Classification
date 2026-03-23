@@ -78,6 +78,7 @@ Loaded using ImageDataGenerator
 Provided as a ZIP file
 📦 Project Deliverables
 ✅ Trained Models (.h5 / .pkl)
+
 ✅ Streamlit Web Application
 ✅ Python Scripts (training, evaluation, deployment)
 ✅ Model Comparison Report
@@ -87,16 +88,7 @@ Model performance comparison
 Accuracy & loss graphs
 Confusion matrix
 Real-time predictions via Streamlit
-🚀 How to Run
-Clone the repository
-git clone <your-repo-link>
-cd <project-folder>
-Install dependencies
-pip install -r requirements.txt
-Train the model (optional)
-python train.py
-Run Streamlit app
-streamlit run app.py
+
 
  # Author
 
