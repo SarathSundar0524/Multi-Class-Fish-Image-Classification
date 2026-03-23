@@ -22,7 +22,7 @@ Training a CNN model from scratch
 Applying transfer learning using pre-trained models
 Comparing performance across models
 Deploying the best model for real-time predictions
-------------
+
 ### Business Use Cases
 Enhanced Accuracy: Identify the most effective model for fish classification
 Model Comparison: Analyze performance across multiple architectures
