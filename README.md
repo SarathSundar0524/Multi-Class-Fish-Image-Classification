@@ -78,9 +78,16 @@ Fish image dataset organized by species folders
 Loaded using ImageDataGenerator
 Provided as a ZIP file
 
-How to run
+▶️ How to Run
+Clone the repository
 git clone https://github.com/your-username/fish-classification.git
 cd fish-classification
+Install required libraries
+pip install -r requirements.txt
+Run model training (optional)
+python train.py
+Launch Streamlit app
+streamlit run app.py
 
 ## Output
 Model performance comparison
