@@ -82,7 +82,7 @@ Loaded using ImageDataGenerator
 Provided as a ZIP file
 
 ## Project Deliverables
--Trained Models (.h5 / .pkl)\n
+-Trained Models (.h5 / .pkl) /n
 -Streamlit Web Application
 -Python Scripts (training, evaluation, deployment)
 -Model Comparison Report
