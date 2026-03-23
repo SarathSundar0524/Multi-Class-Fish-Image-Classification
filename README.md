@@ -81,13 +81,13 @@ Provided as a ZIP file
 ▶️ How to Run
 Clone the repository
 ```bash git clone https://github.com/your-username/fish-classification.git
-cd fish-classification
+cd fish-classification```bash
 Install required libraries
-pip install -r requirements.txt
+```pip install -r requirements.txt```bash
 Run model training (optional)
-python train.py
+```python train.py```bash
 Launch Streamlit app
-streamlit run app.py
+```streamlit run app.py```bash
 
 ## Output
 Model performance comparison
